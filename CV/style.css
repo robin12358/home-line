@@ -1,0 +1,19 @@
+.body{margin: 0; padding: 0;}
+.onelayer{
+	width: 100%;
+    height: 180px;
+}
+img{
+	height: 150px;
+	width: 150px;
+	border-radius: 70px;
+}
+.oneleft{
+	float: left;
+	width: 60%;
+}
+.oneright{
+	float: right;
+	width: 35%;
+	height: 100%;
+}
